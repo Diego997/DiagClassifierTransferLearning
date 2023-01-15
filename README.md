@@ -41,4 +41,5 @@ Il codice è suddiviso in 4 parti, la prima riguarda la classificazione con la V
 		"CNNFeatureExtractionEpoch200.-6layer.csv"
 	Dai quali verrà poi effettuata la classificazione 
 	(Dato il tempo molto elevato per questa esecuzione di codice la generazione del dataset e la ridenominazione viene fatta
-	manualmente andando a modificare il modello da leggere e il numero di layer da rimuovere)
+	manualmente andando a modificare il modello da leggere e il numero di layer da rimuovere ed il nome dei file generati)
+	Infine una volta generati i csv si potrà proseguire con la classificazione per ognuno di essi
